@@ -9,11 +9,11 @@ Status rule: **Implemented** means the category outcome exists in PI Point's cur
 | Category | Status | Public evidence |
 | --- | --- | --- |
 | GV.OC Organizational Context | Implemented | [Security Policy](https://app.pipointsolutions.com/security), [Business Continuity](https://app.pipointsolutions.com/business-continuity), [Terms](https://app.pipointsolutions.com/terms) |
-| GV.RM Risk Management Strategy | Implemented | [Risk management](risk-management.md), [Internal audit](internal-audit-function.md) |
+| GV.RM Risk Management Strategy | Implemented | [Risk management](risk-management.md), [Risk Register](risk-register.md), [Internal audit](internal-audit-function.md) |
 | GV.RR Roles and Responsibilities | Implemented | [Control ownership](control-ownership.md) |
 | GV.PO Policy | Implemented | [Security](https://app.pipointsolutions.com/security), [Privacy](https://app.pipointsolutions.com/privacy), [Incident Response](https://app.pipointsolutions.com/incident-response), [Business Continuity](https://app.pipointsolutions.com/business-continuity) |
 | GV.OV Oversight | Implemented | [Internal audit function](internal-audit-function.md), [2026-07-14 audit record](internal-audit-review-2026-07-14.md) |
-| GV.SC Supply Chain Risk Management | Implemented | [Vendor-risk management](vendor-risk-management.md) |
+| GV.SC Supply Chain Risk Management | Implemented | [Vendor-risk management](vendor-risk-management.md), [Vendor Register](vendor-register.md), [Vendor Review Record](vendor-review-record-2026-07-14.md) |
 
 ## Identify
 

@@ -22,4 +22,4 @@ Treatment options are remediate, mitigate, accept with rationale, stage for guar
 
 ## Disclosure boundary
 
-The full operating risk register is not public because it can contain sensitive architecture, attack-path, provider and remediation detail. A redacted current export can be provided to Smokeball as an attachment under confidentiality.
+The [Sanitized Current Risk Register](risk-register.md) is publicly provided. A more detailed restricted export can be supplied under confidentiality only if Smokeball requests attack-path, provider-account or remediation detail that should not be published.

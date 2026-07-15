@@ -24,11 +24,14 @@ Claim: PI Point uses a documented, recurring risk-management process.
 Public evidence:
 
 - [Risk-management process and current risk summary](risk-management.md)
+- [Sanitized current Risk Register](risk-register.md)
+- [Vendor Register](vendor-register.md)
+- [Dated Vendor Review Record](vendor-review-record-2026-07-14.md)
 - [NIST CSF 2.0 evidence matrix — Govern and Identify](nist-csf-2-evidence-matrix.md#govern)
 - [Internal audit function — audit method and cadence](internal-audit-function.md#audit-method)
 - [PI Point Vulnerability Disclosure](https://app.pipointsolutions.com/vulnerability-disclosure)
 
-Attachment required: a redacted current risk-register export is recommended if Smokeball requires item-level owners, dates, or accepted-risk detail. The public summary intentionally omits sensitive attack-path and provider-account detail.
+The linked sanitized Risk Register is the evidence being provided. A more detailed restricted export is necessary only if Smokeball requests confidential attack-path or remediation detail.
 
 ## B3a — Information-security management system
 
@@ -64,9 +67,10 @@ Public evidence:
 
 - [Internal audit function](internal-audit-function.md)
 - [Dated internal audit review record](internal-audit-review-2026-07-14.md)
+- [Sanitized Privileged Access Review Record](access-review-record-2026-07-14.md)
 - [NIST CSF 2.0 evidence matrix — GV.OV Oversight](nist-csf-2-evidence-matrix.md#govern)
 
-Attachments recommended:
+Additional console attachments recommended:
 
 - redacted GitHub Actions run showing security/release checks;
 - redacted provider-access review checklist or export;
@@ -93,6 +97,8 @@ Claim: PI Point assesses suppliers by criticality, data exposure, credentials, c
 Public evidence:
 
 - [Vendor-risk management process and register summary](vendor-risk-management.md)
+- [Actual Vendor Register](vendor-register.md)
+- [Dated Vendor Review Record](vendor-review-record-2026-07-14.md)
 - [Risk-management process](risk-management.md)
 
 Attachment recommended: redacted vendor-review worksheet or provider security-portal evidence for the vendors materially involved in the Smokeball service.
@@ -104,6 +110,8 @@ Claim: PI Point maintains a risk-ranked vendor register and review cadence.
 Public evidence:
 
 - [Vendor-risk management process, register and cadence](vendor-risk-management.md)
+- [Actual Vendor Register](vendor-register.md)
+- [Dated Vendor Review Record](vendor-review-record-2026-07-14.md)
 - [Control ownership](control-ownership.md)
 - [NIST CSF 2.0 evidence matrix — GV.SC](nist-csf-2-evidence-matrix.md#govern)
 

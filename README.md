@@ -12,6 +12,10 @@ This repository is intended for partner and vendor-security review. It contains 
 - [Internal audit review record](evidence/internal-audit-review-2026-07-14.md)
 - [Risk-management evidence](evidence/risk-management.md)
 - [Vendor-risk evidence](evidence/vendor-risk-management.md)
+- [Vendor Register](evidence/vendor-register.md)
+- [Vendor Review Record](evidence/vendor-review-record-2026-07-14.md)
+- [Sanitized Risk Register](evidence/risk-register.md)
+- [Sanitized Access Review Record](evidence/access-review-record-2026-07-14.md)
 - [Smokeball API security evidence](evidence/smokeball-api-security.md)
 - [Provider-console attachments required](evidence/provider-console-attachments-required.md)
 
